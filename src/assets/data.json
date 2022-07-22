@@ -1,0 +1,53 @@
+{
+    "carouselData": [
+        {
+            "_id": "carousel1",
+            "image": "https://via.placeholder.com/600/92c952",
+            "name": "Green Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        },
+        {
+            "_id": "carousel2",
+            "image": "https://via.placeholder.com/600/771796",
+            "name": "Purple Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        },
+        {
+            "_id": "carousel3",
+            "image": "https://via.placeholder.com/600/24f355",
+            "name": "Parrot Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        },
+        {
+            "_id": "carousel4",
+            "image": "https://via.placeholder.com/600/d32776",
+            "name": "Pink Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        },
+        {
+            "_id": "carousel5",
+            "image": "https://via.placeholder.com/600/f66b97",
+            "name": "Light Pink Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        },
+        {
+            "_id": "carousel6",
+            "image": "https://via.placeholder.com/600/56a8c2",
+            "name": "Blue Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        },
+        {
+            "_id": "carousel7",
+            "image": "https://via.placeholder.com/600/b0f7cc",
+            "name": "Dull Green Marle",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laudantium aspernatur animi deleniti minima libero provident quaerat ad numquam obcaecati error unde voluptatibus, quas blanditiis excepturi quidem, laboriosam magni consectetur.",
+            "more": "More info..."
+        }
+    ]
+}
